@@ -1,0 +1,4 @@
+{
+  "project": "ffmpeg-live-transcoder-docker",
+  "safe_defaults": true
+}
